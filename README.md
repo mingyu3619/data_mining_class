@@ -1,4 +1,4 @@
-# data_minning_class
+# data_mining_class
 
 R을 이용한 데이터 마이닝 수업 실습
 
